@@ -1,0 +1,13 @@
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\bin\Debug\netcoreapp3.1\DigitalinnovationOne.exe
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\bin\Debug\netcoreapp3.1\DigitalinnovationOne.deps.json
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\bin\Debug\netcoreapp3.1\DigitalinnovationOne.runtimeconfig.json
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\bin\Debug\netcoreapp3.1\DigitalinnovationOne.runtimeconfig.dev.json
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\bin\Debug\netcoreapp3.1\DigitalinnovationOne.dll
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\bin\Debug\netcoreapp3.1\DigitalinnovationOne.pdb
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\obj\Debug\netcoreapp3.1\DigitalinnovationOne.csprojAssemblyReference.cache
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\obj\Debug\netcoreapp3.1\DigitalinnovationOne.AssemblyInfoInputs.cache
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\obj\Debug\netcoreapp3.1\DigitalinnovationOne.AssemblyInfo.cs
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\obj\Debug\netcoreapp3.1\DigitalinnovationOne.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\obj\Debug\netcoreapp3.1\DigitalinnovationOne.dll
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\obj\Debug\netcoreapp3.1\DigitalinnovationOne.pdb
+C:\Users\Alvaro\Documents\dotnet\DigitalinnovationOne\obj\Debug\netcoreapp3.1\DigitalinnovationOne.genruntimeconfig.cache
